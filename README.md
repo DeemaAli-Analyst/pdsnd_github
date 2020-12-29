@@ -1,15 +1,13 @@
-### Date created
-Include the date you created this project and README file.
+The date that i created this project and README is 29/12/2020
 
-### Project Title
-Replace the Project Title
+The project title is post your work on github 
 
-### Description
-Describe what your project is about and what it does
 
-### Files used
-Include the files used
+the project is about to share your pervoius projects you did in the github to share the knwlodge and infromations 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+the files is used in this project :
+1-bikeshare.py 
+2-.gitignore.cvs 
+
 
