@@ -1,7 +1,7 @@
 # Udacity programming for Data Science using Python Nanodegree
-<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Udacity-Data-Scientist-Nanodegree-program.png" width="1000">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fdata-science-seo%2F339277%2F&psig=AOvVaw0gonPZztc1K557CBHLlq-Y&ust=1610978090491000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiHqJqPo-4CFQAAAAAdAAAAABAD" width="1000">
 
-# This REAME Created by Deema Ali 
+# This REAME Created by Deema Ali
 
 This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
 
