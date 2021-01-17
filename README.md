@@ -1,7 +1,7 @@
 # Udacity programming for Data Science using Python Nanodegree
 <img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Udacity-Data-Scientist-Nanodegree-program.png" width="1000">
 
-# This REAME Created by Deema
+# This REAME Created by Deema Ali 
 
 This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -9,7 +9,7 @@ This repository contains projects for Udacity Programming For Data Science Using
 
 ### Overview
 
-This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries.
 
 For the presentation component, the student had to create four slides, and each should have (a) a question of interest, (b) a supporting SQL query needed to answer the question, (c) a supporting visualization created using the final data of the SQL queries that answer the questions of interest, and (d) a small summary on each slide.
 
@@ -28,14 +28,14 @@ In this project, the student had to make use of Python to explore data related t
 
 #### Files Used
 
-The required files for running this program are: 
+The required files for running this program are:
 
 * washington.csv
 * new_york_city.csv
 * chicago.csv
 
 #### Requirements
-This program was written in Python and relies on two libraries (pandas , numpy)
+This program was written in Python and relies on two libraries (pandas ,numpy)
 
 
 ## Project 3
@@ -44,5 +44,3 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 
 [Check The Project ](https://github.com/DeemaAli-Analyst/pdsnd_github/blob/master/Copy%20of%20Git%20Commands%20Documentation.pdf).
-
-
