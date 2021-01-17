@@ -33,7 +33,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
     month_name = ''
     while month_name.lower() not in MONTH_DATA:
-        month_name = input("\nWhat is the name of the month you want to get the data? the input should ne either 'all' to be no month filter or january, february, ... , june\n")
+        month_name = input("\ncan you please select a month you want to get the data? the input should ne either 'all' to be no month filter or january, february, ... , june\n")
         if month_name.lower() in MONTH_DATA:
 
             month = month_name.lower()
